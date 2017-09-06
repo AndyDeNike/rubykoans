@@ -49,3 +49,4 @@ class AboutObjects < Neo::Koan
     assert_equal true, obj.object_id != copy.object_id
   end
 end
+.
