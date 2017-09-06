@@ -38,4 +38,3 @@ class AboutAsserts < Neo::Koan
     assert_equal 2, 1 + 1
   end
 end
-.

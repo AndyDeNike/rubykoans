@@ -36,4 +36,3 @@ class AboutNil < Neo::Koan
   end
 
 end
-.
